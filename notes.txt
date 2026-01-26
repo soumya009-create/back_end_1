@@ -1,0 +1,17 @@
+app.get('/',(req,res)=>{
+    res.send("hello world")
+})
+if the user requests with / 
+the server responses with hello world
+
+
+npx nodemon file.js
+
+//used to register the changes on js files
+npm->package manager
+npx->package executioner
+
+//deplyoing a server 
+
+
+// anything under gitignore is ignored when uplosding the github
